@@ -3,7 +3,7 @@
 
 ---
 
-<h1 id="yolo-from-scratch-project">YOLO from Scratch Project</h1>
+<h1 id="yolo-from-scratch">YOLO from Scratch</h1>
 <h2 id="overview">Overview</h2>
 <p><img src="https://github.com/Satzil/Yolo_from_scratch/blob/main/Architecture.png?raw=true" alt="enter image description here"></p>
 <p>This repository contains an implementation of YOLO (You Only Look Once) object detection algorithm from scratch using Python and PyTorch. The project aims to provide a comprehensive understanding of how YOLO architecture works by building the model and training it on the Pascal VOC dataset.</p>
